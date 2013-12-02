@@ -1,5 +1,3 @@
-import pudb
-
 
 def hashfunc(instr, table):
     OFFSET = 32
